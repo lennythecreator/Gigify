@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "Gig",
+    "scheme":"Gig",
     "slug": "Gig",
     "version": "1.0.0",
     "orientation": "portrait",
